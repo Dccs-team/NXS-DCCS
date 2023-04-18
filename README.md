@@ -25,7 +25,7 @@
 
 - `pip install bs4`
 
-- `rm -rf N3obXdccS`
+- `rm -rf NXS-DCCS`
 
 - `git clone https://github.com/Dccs-team/NXS-DCCS
 
