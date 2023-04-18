@@ -27,7 +27,7 @@
 
 - `rm -rf NXS-DCCS`
 
-- `git clone https://github.com/Dccs-team/NXS-DCCS
+- `git clone https://github.com/Dccs-team/NXS-DCCS`
 
 - `cd NXS-DCCS`
 
